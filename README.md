@@ -12,7 +12,7 @@ built in QuickBooks Online. Demonstrates:
 
 ## Company Profile
 - **Entity:** Northstar Creative LLC (Professional Services)
-- **Location:** Austin, TX
+- **Location:** Birmingham, Alabama, 35203-3161
 - **Accounting Method:** Accrual (US GAAP)
 - **Fiscal Period:** October 2026
 
@@ -36,3 +36,9 @@ built in QuickBooks Online. Demonstrates:
 ## Author
 Harshit Maurya — B.Com (Delhi University)
 QuickBooks Online ProAdvisor (in progress)   
+
+### 1. Adjusting Journal Entries
+![Adjusting Entries](screenshots/06-adjusting-entries.png)
+
+### 2. Profit & Loss Statement
+![Profit and Loss](screenshots/07-profit-and-loss.png)
