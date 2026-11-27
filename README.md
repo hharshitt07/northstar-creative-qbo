@@ -27,11 +27,11 @@ built in QuickBooks Online. Demonstrates:
 ## How to Replicate
 1. Sign up for QuickBooks Online free trial (US)
 2. Create company: "Northstar Creative LLC", Professional Services, Accrual
-3. Build the 25-account COA (see screenshots/02)
-4. Record all transactions (see screenshots/04)
-5. Reconcile bank (see screenshots/05 + recon-memo.txt)
-6. Post adjusting JEs (see screenshots/06)
-7. Generate reports (see screenshots/07–12)
+3. Build the 25-account COA 
+4. Record all transactions
+5. Reconcile bank 
+6. Post adjusting JEs 
+7. Generate reports
 
 ## Author
 Harshit Maurya — B.Com (Delhi University)
