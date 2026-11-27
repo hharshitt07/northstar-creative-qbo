@@ -37,8 +37,16 @@ built in QuickBooks Online. Demonstrates:
 Harshit Maurya — B.Com (Delhi University)
 QuickBooks Online ProAdvisor (in progress)   
 
-### 1. Adjusting Journal Entries
-![Adjusting Entries](screenshots/06-adjusting-entries.png)
+## Project Screenshots & Financial Reports
+
+### 1. Bank Reconciliation
+![Bank Reconciliation](screenshot/05-bank-reconciliation.png)
 
 ### 2. Profit & Loss Statement
-![Profit and Loss](screenshots/07-profit-and-loss.png)
+![Profit and Loss](screenshot/07-P&L.png)
+
+### 3. Balance Sheet
+![Balance Sheet](screenshot/08-Balance-Sheet.png)
+
+### 4. Cash Flow Statement
+![Cash Flow](screenshot/09-Cash-Flow.png)
